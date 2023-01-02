@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{82025280-15E3-4EED-86E5-2DB6302AA2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReCaptchaValidator", "ReCaptchaValidator\ReCaptchaValidator.csproj", "{908D36F0-C1A8-4D83-A231-655111979C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82025280-15E3-4EED-86E5-2DB6302AA2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82025280-15E3-4EED-86E5-2DB6302AA2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82025280-15E3-4EED-86E5-2DB6302AA2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82025280-15E3-4EED-86E5-2DB6302AA2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{908D36F0-C1A8-4D83-A231-655111979C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908D36F0-C1A8-4D83-A231-655111979C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908D36F0-C1A8-4D83-A231-655111979C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908D36F0-C1A8-4D83-A231-655111979C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1B9C17-5AF6-435C-893B-550B1ECE1B4C}
+	EndGlobalSection
+EndGlobal
